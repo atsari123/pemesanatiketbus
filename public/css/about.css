@@ -1,0 +1,44 @@
+@import url(reset.css);
+
+/* about start */
+.about {
+    padding: 50px;
+    margin-top: 10px;
+    background: #f6f1e9;
+  }
+  .about .card {
+    border-radius: 10px;
+  }
+  .about .card img {
+    border-radius: 10px;
+  }
+  .about h2 {
+    font-weight: 600;
+    letter-spacing: 1px;
+  }
+  .about p {
+    font-size: 500;
+  }
+  #about-btn {
+    width: 150px;
+    height: 35px;
+    border: none;
+    border-radius: 5px;
+    background: #ffd93d;
+    color: #4f200d;
+    letter-spacing: 2px;
+    font-weight: 550;
+    transition: 0.5s;
+    cursor: pointer;
+  }
+  #about-btn:hover {
+    width: 170px;
+    background: #f9f9f9;
+    color: #ff8400;
+  }
+  @media (max-width: 760px) {
+    .about {
+      padding: 0px;
+    }
+  }
+  /* about end */

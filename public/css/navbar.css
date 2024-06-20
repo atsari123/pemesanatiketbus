@@ -1,0 +1,39 @@
+@import url(reset.css);
+
+#navbar {
+    background: #f6f1e9;
+  }
+  #Logo {
+    font-size: 25px;
+    font-weight: 550;
+    color: #4f200d;
+    text-shadow: 0px 1px 1px #000;
+    margin-bottom: 5px;
+  }
+  #Logo span {
+    color: #ffd93d;
+  }
+  .navbar-toggler span {
+    color: #4f200d;
+  }
+  .navbar-nav {
+    margin-left: 20px;
+  }
+  .nav-item .nav-link {
+    font-size: 16px;
+    font-weight: 550;
+    color: #4f200d;
+    letter-spacing: 1px;
+    border-radius: 3px;
+    transition: 0.5 ease;
+  }
+  .nav-item .nav-link:hover {
+    background: #ffd93d;
+    color: #f6f1e9;
+  }
+  #navbar form button {
+    background: #ff8400;
+    color: #f6f1e9;
+    border: none;
+  }
+  /* navbar end */

@@ -1,0 +1,73 @@
+@import url(reset.css);
+
+/* section package start */
+.main-txt {
+    text-align: center;
+    margin-top: 30px;
+    font-weight: 600;
+    text-shadow: 0px 1px 1px black;
+  }
+  .main-txt h1 {
+    color: #ffd93d;
+  }
+  .main-txt span,
+  h3,
+  h6,
+  p {
+    color: #4f200d;
+  }
+  .packages .card {
+    border-radius: 5px;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 1) 0px 4px 12px;
+  }
+  .packages .card img {
+    border-radius: 5px;
+  }
+  .packages .card .card-body {
+    background: transparent;
+  }
+  .packages .card .card-body h3 {
+    font-size: 25px;
+    font-weight: 600;
+  }
+  .packages .card .card-body p {
+    font-size: 15px;
+  }
+  .checked {
+    color: #ffd93d;
+  }
+  .star i {
+    font-size: 15px;
+  }
+  .packages .card .card-body h6 {
+    font-size: 20px;
+  }
+  .packages .card .card-body a {
+    display: inline-block;
+    padding: 7px;
+    text-decoration: none;
+    background: #ffd93d;
+    color: #4f200d;
+    border-radius: 5px;
+    transition: 0.5s;
+  }
+
+  /* Definisikan animasi fade-in */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Tambahkan kelas animasi */
+.fade-in-up {
+  opacity: 0; /* Inisial keadaan untuk memastikan elemen tak terlihat sebelum animasi dimulai */
+  animation: fadeInUp 1.5s forwards; /* Durasi animasi 1 detik */
+}
+  /* section package end */

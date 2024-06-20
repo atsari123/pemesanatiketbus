@@ -1,0 +1,19 @@
+@import url(reset.css);
+
+/* section gallery start */
+.gallery {
+    margin-bottom: 50px;
+  }
+  .gallery .card {
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 4px 12px;
+    cursor: pointer;
+  }
+  .gallery .card img {
+    border-radius: 10px;
+    transition: 0.5s;
+  }
+  .gallery .card img:hover {
+    transform: scale(1.1);
+  }
+  /* section gallery end */

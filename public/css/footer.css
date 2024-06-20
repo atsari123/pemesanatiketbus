@@ -1,0 +1,41 @@
+@import url(reset.css);
+
+/* footer start */
+#footer {
+    width: 100%;
+    margin-top: 150px;
+    text-align: center;
+    background: white;
+  }
+  #footer h1 {
+    font-weight: 600;
+    padding-top: 30px;
+    text-shadow: 0px 1px 1px black;
+  }
+  #footer h1 {
+    color: #4f200d;
+  }
+  #footer span {
+    color: #ffd93d;
+  }
+  .social-links i {
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+    background: #4f200d;
+    color: #f6f1e9;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    transition: 0.5s ease;
+    cursor: pointer;
+  }
+  .social-links i:hover {
+    background: #ffa500;
+  }
+
+  .credit{
+    text-align: center;
+    font-size: 14px;
+    text-decoration: none;
+  }
+  /* footer end */
