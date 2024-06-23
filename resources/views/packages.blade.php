@@ -15,7 +15,7 @@
               <img src="image/pacitan.jpg" alt="">
               <div class="card-body">
                 <h3>Pacitan</h3>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Similique, animi?</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero, officia.</p>
                 <div class="star">
                   <i class="fa-solid fa-star checked"></i>
                   <i class="fa-solid fa-star checked"></i>
@@ -33,7 +33,7 @@
               <img src="image/ponorogo.jpg" alt="">
               <div class="card-body">
                 <h3>Ponorogo</h3>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Similique, animi?</p>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perferendis, at?</p>
                 <div class="star">
                   <i class="fa-solid fa-star checked"></i>
                   <i class="fa-solid fa-star checked"></i>
@@ -51,7 +51,7 @@
               <img src="image/jakarta.jpg" alt="">
               <div class="card-body">
                 <h3>Jakarta</h3>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Similique, animi?</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, ipsam?</p>
                 <div class="star">
                   <i class="fa-solid fa-star checked"></i>
                   <i class="fa-solid fa-star checked"></i>
@@ -70,7 +70,7 @@
               <img src="image/sidoarjo.jpg" alt="">
               <div class="card-body">
                 <h3>Sidoarjo</h3>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Similique, animi?</p>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Error, ab!</p>
                 <div class="star">
                   <i class="fa-solid fa-star checked"></i>
                   <i class="fa-solid fa-star checked"></i>
@@ -88,7 +88,7 @@
               <img src="image/bandung.jpg" alt="">
               <div class="card-body">
                 <h3>Bandung</h3>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Similique, animi?</p>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem, molestias.</p>
                 <div class="star">
                   <i class="fa-solid fa-star checked"></i>
                   <i class="fa-solid fa-star checked"></i>
